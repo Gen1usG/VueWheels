@@ -1,0 +1,8 @@
+{
+  "name": "VueWheels",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Gen1usG/VueWheels.git",
+  "author": "Gen1usG <812487021@qq.com>",
+  "license": "MIT"
+}
